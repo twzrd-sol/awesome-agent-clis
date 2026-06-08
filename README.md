@@ -142,6 +142,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 
 - [Stripe CLI](https://github.com/stripe/stripe-cli) - Test webhooks, trigger events, tail API logs, and manage Stripe resources. `--json` flag for structured output. [`skill`](stripe-cli/SKILL.md)
 - [Visa CLI](https://visa.com) 🤖 - AI agents make card-native payments programmatically. Closed beta. [`skill`](visa-cli/SKILL.md)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) 🤖 - Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free tools: `score_agent(wallet)`, `preflight_check(wallet)`. [`config`](https://intel.twzrd.xyz/mcp)
 
 ### Food Delivery
 
